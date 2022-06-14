@@ -18,7 +18,7 @@ Multiple [projections](https://scitools.org.uk/cartopy/docs/latest//reference/pr
 ## See also
 Selectable country shapes are used as layers over a world map background here:
 
- 1. [Countries-Shapes-Generator](https://github.com/regorxxx/countries-shapes-generator): Script to generate these files.
+ 1. [Countries-Shapes-Generator](https://github.com/regorxxx/countries-shapes-generator): Python script to generate these files.
  
 [changelog]: CHANGELOG.md
 [version_badge]: https://img.shields.io/github/release/regorxxx/country-shapes.svg
